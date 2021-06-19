@@ -14,7 +14,7 @@ I'm a Pre-Final year student pursuing Bachelors's in Computer Science 🎓 from 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Django, Django REST Framework, Nodejs, Express,<br> React, GraphQL, MongoDB, Javascript, MySQL etc.
+- 🛠 &nbsp; I’m currently working with Django, Django REST Framework, Nodejs, Express, React, GraphQL, MongoDB, Javascript, MySQL etc.
 - 🚀 &nbsp; I’m currently learning Go, Docker and Kubernetes.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/khannakshat7).
 - 💬 &nbsp; Ask me about anything [here](mailto:khannakshat7@gmail.com)! I am happy to help.
