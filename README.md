@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/khannakshat7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/khannakshat7/)
 
-I'm a Pre-Final year student pursuing Bachelors's in Computer Science 🎓 from SRM Institute of Science and Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from SRM Institute of Science and Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. I'm currently building Kubernetes ⚓️ and working on my Data Structures and Algorithms 🤓.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=khannakshat7.khannakshat7&style=flat-square&color=0088cc)
 
@@ -14,8 +14,8 @@ I'm a Pre-Final year student pursuing Bachelors's in Computer Science 🎓 from 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Django, Django REST Framework, Nodejs, Express, React, GraphQL, MongoDB, Javascript, MySQL etc.
-- 🚀 &nbsp; I’m currently learning Go, Docker and Kubernetes.
+- 🛠 &nbsp; I’m currently working with Golang, Kubernetes, Cluster APIs, etc.
+- 🚀 &nbsp; I’m currently learning and exporing Kubernetes.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/khannakshat7).
 - 💬 &nbsp; Ask me about anything [here](mailto:khannakshat7@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript😀
