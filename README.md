@@ -15,7 +15,7 @@ I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from SRM 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Golang, Kubernetes, Cluster APIs, etc.
-- 🚀 &nbsp; I’m currently learning and exporing Kubernetes.
+- 🚀 &nbsp; I’m a multi-cloud engineer working on Docker, Kubernetes and OSS.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/khannakshat7).
 - 💬 &nbsp; Ask me about anything [here](mailto:khannakshat7@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript😀
