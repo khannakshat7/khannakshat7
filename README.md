@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/khannakshat7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/khannakshat7/)
 
-I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from SRM Institute of Science and Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. I'm currently building Kubernetes ⚓️ and working on my Data Structures and Algorithms 🤓.
+Software Engineer (SDE-2) with hands-on experience building large-scale distributed systems and Kubernetes runtimes 🚀. I work primarily with Go, Kubernetes, and cloud-native architectures, focusing on scalability, performance, and reliability ⚙️. Previously at VMware Tanzu, where I built an edge-optimized Kubernetes runtime, and now working on real-time financial settlement systems processing millions of transactions 💰. Active open-source contributor, Kubernetes and Open Source speaker, and strong believer in learning by building 👨🏻‍💻.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=khannakshat7.khannakshat7&style=flat-square&color=0088cc)
 
@@ -14,11 +14,11 @@ I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from SRM 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Golang, Kubernetes, Cluster APIs, etc.
-- 🚀 &nbsp; I’m a multi-cloud engineer working on Docker, Kubernetes and OSS.
+- 🛠 &nbsp; I’m currently building large-scale distributed systems using Golang, Kubernetes control-plane components, Cluster API, and cloud-native tooling.
+- 🚀 &nbsp; I work across multi-cloud environments (AWS and GCP), focusing on scalability, performance, and reliability in distribted systems.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/khannakshat7).
 - 💬 &nbsp; Ask me about anything [here](mailto:khannakshat7@gmail.com)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript😀
+- 👾 &nbsp; In Go, maps don’t guarantee iteration order — and relying on it can break your program just like race conditions 😉
 
 ### My Absolute Favorites:
 
@@ -36,8 +36,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
   <br />
   
-|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
-|--|--|--|
+|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|--|--|--|--|
 
 </details>
 
