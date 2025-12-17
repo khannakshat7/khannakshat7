@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/khannakshat7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/khannakshat7/)
 
-Software Engineer (SDE-2) with hands-on experience building large-scale distributed systems and Kubernetes runtimes 🚀. I work primarily with Go, Kubernetes, and cloud-native architectures, focusing on scalability, performance, and reliability ⚙️. Previously at VMware Tanzu, where I built an edge-optimized Kubernetes runtime, and now working on real-time financial settlement systems processing millions of transactions 💰. Active open-source contributor, Kubernetes and Open Source speaker, and strong believer in learning by building 👨🏻‍💻.
+Software Engineer with hands-on experience building large-scale distributed systems and Kubernetes runtimes 🚀. I work primarily with Go, Kubernetes, and cloud-native architectures, focusing on scalability, performance, and reliability ⚙️. Previously at VMware Tanzu, where I built an edge-optimized Kubernetes runtime, and now working on real-time financial settlement systems processing millions of transactions 💰. Active open-source contributor, Kubernetes and Open Source speaker, and strong believer in learning by building 👨🏻‍💻.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=khannakshat7.khannakshat7&style=flat-square&color=0088cc)
 
